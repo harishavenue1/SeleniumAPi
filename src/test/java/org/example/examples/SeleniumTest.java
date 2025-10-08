@@ -1,4 +1,4 @@
-package org.example;
+package org.example.examples;
 
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterMethod;
